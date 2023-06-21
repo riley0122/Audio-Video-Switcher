@@ -6,3 +6,6 @@ edition = "2021"
 [[bin]]
 name = "src"
 path = "main.rs"
+
+[dependencies]
+ffmpeg = "0.3.0"
