@@ -8,4 +8,4 @@ name = "src"
 path = "main.rs"
 
 [dependencies]
-ffmpeg = "0.3.0"
+ffmpeg-next = "6.0.0"
