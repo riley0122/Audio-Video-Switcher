@@ -1,7 +1,7 @@
 ﻿namespace avSwitcher{
     class Program{
-        static void main(string[] args){
-
+        static void Main(string[] args){
+            string filename = args[0];
         }
     }
 }
